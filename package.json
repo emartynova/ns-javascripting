@@ -1,0 +1,19 @@
+{
+  "name": "ns-javascripting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://emartynova:webotron4@github.com/emartynova/ns-javascripting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emartynova/ns-javascripting/issues"
+  },
+  "homepage": "https://github.com/emartynova/ns-javascripting#readme"
+}
